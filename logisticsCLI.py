@@ -1,9 +1,5 @@
 from mylib.logistics import (
     calc_distance,
-    travel_time,
-    get_coords,
-    total_distance,
-    shipping_cost,
 )
 import click
 
