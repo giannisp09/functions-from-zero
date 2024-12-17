@@ -67,7 +67,7 @@ def get_coords(city):
 # build a function to calculate the total distance of the cities
 
 
-def total_distance(cities):
+def total_distance():
     """
     Calculate the total distance of the cities
     """
